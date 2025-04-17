@@ -27,7 +27,7 @@
 * **Interactivity:** `Filters`, `Filter Actions`.
 * **Dashboarding:** Combining worksheets, Layout design, Formatting.
 
-
+```
 ## 📊 Example Output
 
 ![Sales by Region Chart](image/Sales by Region.png)
@@ -35,7 +35,7 @@
 ![Shipping Cost Chart](image/Shipping Cost Analysis.png)
 ![Order Priority Chart](image/Order Priority Breakdown.png)
 ![Global Superstore Dashboard](image/Global Superstore Dashboard.png)
-
+```
 
 ### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
 
