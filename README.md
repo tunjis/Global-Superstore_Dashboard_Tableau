@@ -30,15 +30,21 @@
 
 ## 📊 Example Output
 
-<p align="center">
-  <img src="image/Sales%20by%20Region.png" width="500"  height="700"/>
-  <img src="image/Profit%20Margin%20by%20Category.png" width="500" height="700"/>
-  <img src="image/Shipping%20Cost%20Analysis.png" width="500"/>
-  <img src="image/Order%20Priority%20Breakdown.png" width="500"/>
-  <img src="image/global_superstore_dashboard.png" width="1000"/>
-</p>
-
-
+<table>
+  <tr>
+    <td><img src="image/Sales%20by%20Region.png" width="500" height="700"/></td>
+    <td><img src="image/Profit%20Margin%20by%20Category.png" width="500" height="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="image/Shipping%20Cost%20Analysis.png" width="500"/></td>
+    <td><img src="image/Order%20Priority%20Breakdown.png" width="500"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="image/global_superstore_dashboard.png" width="1000"/>
+    </td>
+  </tr>
+</table>
 
 
 
