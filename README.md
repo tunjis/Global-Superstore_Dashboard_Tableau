@@ -32,6 +32,8 @@
 
 ## 📊 Example Output
 
-<a href="placeholder_link_to_dashboard.pdf" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="24" height="24" alt="Tableau"/></a> [Global Superstore Dashboard PDF](placeholder_link_to_dashboard.pdf)
-
----
+![Sales by Region Chart](PDF and PNG/Sales by Region.png) 
+![Profit Margin Chart](PDF and PNG/Profit Margin by Category.png) 
+![Shipping Cost Chart](PDF and PNG/Shipping Cost Analysis.png) 
+![Order Priority Chart]((PDF and PNG/Order Priority Breakdown.png) 
+![Global Superstore Dashboard](PDF and PNG/Global Superstore Dashboard.png) 
