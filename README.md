@@ -9,10 +9,10 @@
 
 * **Data Connection & Preparation:** Connected to the `global_superstore_2016` dataset; Verified and adjusted **`Data Types`** as needed.
 * **Core Visualisations:**
-    * **`Bar Chart`**: Created 'Sales by Region', **`Sorted`** regions by total sales (descending), and implemented a **`Filter`** for `Year`. ([View Chart](image/Sales by Region.png))
-    * **`Scatter Plot`**: Developed 'Profit Margin by Category', plotting `Profit` vs. `Sales`, using **`Colour Encoding`** to distinguish `Product Category`. ([View Chart](placeholder_link_to_profit_margin.pdf))
-    * **`Line Chart`**: Built 'Shipping Cost Analysis', showing `Average Shipping Cost` over `Time` (Order Date), with **`Filters`** for `Ship Mode`. ([View Chart](placeholder_link_to_shipping_cost.pdf))
-    * **`Pie Chart`**: Designed 'Order Priority Breakdown', displaying the distribution using a **`Table Calculation`** (`Percentage of Total`), with **`Filters`** for `Segment` and `Region`. ([View Chart](placeholder_link_to_order_priority.pdf))
+    * **`Bar Chart`**: Created 'Sales by Region', **`Sorted`** regions by total sales (descending), and implemented a **`Filter`** for `Year`. ([View Bar Chart](https://public.tableau.com/views/20250311GlobalSuperstoreDashboard/SalesbyRegion?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+    * **`Scatter Plot`**: Developed 'Profit Margin by Category', plotting `Profit` vs. `Sales`, using **`Colour Encoding`** to distinguish `Product Category`. ([View Scatter Plot](https://public.tableau.com/views/20250311GlobalSuperstoreDashboard/ProfitMarginbyCategory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+    * **`Line Chart`**: Built 'Shipping Cost Analysis', showing `Average Shipping Cost` over `Time` (Order Date), with **`Filters`** for `Ship Mode`. ([View Line Chart](https://public.tableau.com/views/20250311GlobalSuperstoreDashboard/ShippingCostAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+    * **`Pie Chart`**: Designed 'Order Priority Breakdown', displaying the distribution using a **`Table Calculation`** (`Percentage of Total`), with **`Filters`** for `Segment` and `Region`. ([View Pie Chart](https://public.tableau.com/views/20250311GlobalSuperstoreDashboard/OrderPriorityBreakdown?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 * **Calculated Fields & Analytics:** Implicitly used aggregate functions (e.g., **`SUM`**, **`AVG`**) for visualisations; Applied **`Table Calculations`** (`Percent of Total`).
 * **Dashboard Design & Interactivity:** Combined the four worksheets into a single **`Dashboard`**; Configured **`Filter Actions`** to link filters across visuals, ensuring a cohesive and user-friendly experience.
 * **Formatting & Presentation:** Applied consistent **`Formatting`**, clear titles, and legends for a visually appealing and interpretable dashboard.
@@ -31,11 +31,10 @@
 ## 📊 Example Output
 
 ![Sales by Region Chart](image/Sales by Region.png)
-![Profit Margin Chart](PDF and PNG/Profit Margin by Category.png)
-![Shipping Cost Chart](PDF and PNG/Shipping Cost Analysis.png)
-![Order Priority Chart](PDF and PNG/Order Priority Breakdown.png)
-![Global Superstore Dashboard](PDF and PNG/Global Superstore Dashboard.png)
-
+![Profit Margin Chart](image/Profit Margin by Category.png)
+![Shipping Cost Chart](image/Shipping Cost Analysis.png)
+![Order Priority Chart](image/Order Priority Breakdown.png)
+![Global Superstore Dashboard](image/Global Superstore Dashboard.png)
 
 
 ### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
