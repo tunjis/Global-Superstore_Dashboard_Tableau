@@ -1,10 +1,7 @@
-# 📊 Data Analysis & Visualisation Portfolio <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="36" height="36" alt="Tableau"/> **Tableau** </a>
+# 📊 Global Superstore Interactive Dashboard <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="36" height="36" alt="Tableau"/> **Tableau** </a>
 
-*This README provides an overview of the Tableau-based data analysis and visualisation projects contained within this repository.*
-
-## Project 1: Global Superstore Interactive Dashboard
-
-<a href="placeholder_link_to_dashboard.pdf" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="24" height="24" alt="Tableau"/></a> [Global Superstore Dashboard](placeholder_link_to_dashboard.pdf) | <a href="placeholder_link_to_data.csv" target="_blank" rel="noreferrer">Data Source: global_superstore_2016.xlsx</a> | <a href="placeholder_link_to_task_doc.docx" target="_blank" rel="noreferrer">Task Brief</a>
+<a href="placeholder_link_to_dashboard.pdf" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="24" height="24" alt="Tableau"/></a> [Global Superstore Dashboard](https://public.tableau.com/app/profile/tunjis/viz/20250311GlobalSuperstoreDashboard/GlobalSuperstoreDashboard) | <img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png"/> [Data Source](https://justit831-my.sharepoint.com/:x:/g/personal/justincracium_bootcamp_justit_co_uk/EYurcEVzHfNKuJMekvc9dUoBXt0RLloYd8P0sEndcW8iPA?e=7PJRBV)</a> | <a href="placeholder_link_to_task_doc.docx" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/color/24/000000/microsoft-word-2019--v1.png" alt="Microsoft Word Icon"/> [Task Brief](https://justit831-my.sharepoint.com/:w:/g/personal/justincracium_bootcamp_justit_co_uk/ESUi6rZy0_dHkbV_O2zgxPcBMIC3w24U8nx3-efskB4jFA?e=2794eb)</a>  
 
 **Objective:** To analyse the Global Superstore dataset and develop an interactive dashboard showcasing key business metrics, demonstrating proficiency in data connection, visualisation creation, and dashboard design within Tableau.
 
@@ -38,6 +35,8 @@
 ![Shipping Cost Chart](PDF and PNG/Shipping Cost Analysis.png)
 ![Order Priority Chart](PDF and PNG/Order Priority Breakdown.png)
 ![Global Superstore Dashboard](PDF and PNG/Global Superstore Dashboard.png)
+
+
 
 ### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
 
