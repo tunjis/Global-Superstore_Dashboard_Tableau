@@ -34,7 +34,7 @@
 ![Profit Margin Chart](image/Profit Margin by Category.png)
 ![Shipping Cost Chart](image/Shipping Cost Analysis.png)
 ![Order Priority Chart](image/Order Priority Breakdown.png)
-![Global Superstore Dashboard](image/Global Superstore Dashboard.png)
+![Global Superstore Dashboard](image/Global Superstore Dashboard.jpeg)
 ```
 
 ### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
