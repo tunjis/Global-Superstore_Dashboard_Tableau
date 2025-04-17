@@ -9,7 +9,7 @@
 
 * **Data Connection & Preparation:** Connected to the `global_superstore_2016` dataset; Verified and adjusted **`Data Types`** as needed.
 * **Core Visualisations:**
-    * **`Bar Chart`**: Created 'Sales by Region', **`Sorted`** regions by total sales (descending), and implemented a **`Filter`** for `Year`. ([View Chart](placeholder_link_to_sales_by_region.pdf))
+    * **`Bar Chart`**: Created 'Sales by Region', **`Sorted`** regions by total sales (descending), and implemented a **`Filter`** for `Year`. ([View Chart](image/Sales by Region.png))
     * **`Scatter Plot`**: Developed 'Profit Margin by Category', plotting `Profit` vs. `Sales`, using **`Colour Encoding`** to distinguish `Product Category`. ([View Chart](placeholder_link_to_profit_margin.pdf))
     * **`Line Chart`**: Built 'Shipping Cost Analysis', showing `Average Shipping Cost` over `Time` (Order Date), with **`Filters`** for `Ship Mode`. ([View Chart](placeholder_link_to_shipping_cost.pdf))
     * **`Pie Chart`**: Designed 'Order Priority Breakdown', displaying the distribution using a **`Table Calculation`** (`Percentage of Total`), with **`Filters`** for `Segment` and `Region`. ([View Chart](placeholder_link_to_order_priority.pdf))
@@ -30,7 +30,7 @@
 
 ## 📊 Example Output
 
-![Sales by Region Chart](PDF and PNG/Sales by Region.png)
+![Sales by Region Chart](image/Sales by Region.png)
 ![Profit Margin Chart](PDF and PNG/Profit Margin by Category.png)
 ![Shipping Cost Chart](PDF and PNG/Shipping Cost Analysis.png)
 ![Order Priority Chart](PDF and PNG/Order Priority Breakdown.png)
