@@ -27,15 +27,20 @@
 * **Interactivity:** `Filters`, `Filter Actions`.
 * **Dashboarding:** Combining worksheets, Layout design, Formatting.
 
-```
+
 ## 📊 Example Output
 
-![Sales by Region Chart](image/Sales by Region.png)
-![Profit Margin Chart](image/Profit Margin by Category.png)
-![Shipping Cost Chart](image/Shipping Cost Analysis.png)
-![Order Priority Chart](image/Order Priority Breakdown.png)
-![Global Superstore Dashboard](image/global_superstore_dashboard.png)
-```
+<p align="center">
+  <img src="image/Sales%20by%20Region.png" width="500"  height="700"/>
+  <img src="image/Profit%20Margin%20by%20Category.png" width="500" height="700"/>
+  <img src="image/Shipping%20Cost%20Analysis.png" width="500"/>
+  <img src="image/Order%20Priority%20Breakdown.png" width="500"/>
+  <img src="image/global_superstore_dashboard.png" width="1000"/>
+</p>
+
+
+
+
 
 ### 🧑‍💻 Created by [tunjis](https://github.com/tunjis) 
 
